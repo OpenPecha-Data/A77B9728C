@@ -1,0 +1,19 @@
+segment_sources:
+  I14EA8FE7:
+    type: origin_type
+    relation: translation
+    language: en
+  IEC209262:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  229d990c453443a5920add6147aa80b0:
+    I14EA8FE7: 00faeb9759754bb9a5b445f1b90b63e0
+    IEC209262: c3845fe95c694e28941425ac5ce0f088
+  23be34436f0a4078b5f5451a86a8835d:
+    I14EA8FE7: 70a324bb6d6e49eb8aef5c832e240ff6
+    IEC209262: 452ec3bfd16543f484306de74b5eae7f
+  dfd2101d6a394cf2b152306cb8ac3974:
+    I14EA8FE7: 6b91783e0351464a8e4b286d35b02813
+    IEC209262: 71636d172ac34cafaf0e734a579123d1
